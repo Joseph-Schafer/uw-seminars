@@ -1,0 +1,3 @@
+[submodule "seminar-website"]
+	path = seminar-website
+	url = ./web/seminar-website
